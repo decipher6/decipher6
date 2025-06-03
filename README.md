@@ -23,27 +23,29 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **[Medbud](https://github.com/decipher6/medBud)** |Health companion to generate AI-powered health reports for more effective doctor visits. | React, FastAPI, MongoDB |
-| **[Spexy](https://github.com/bipana06/Spexy)** | Glasses recommenderbased on face shape | FastAPI, Roboflow, Web Scraping |
-| **[Crunchy-Combinator](https://github.com/decipher6/crunchy-combinator)** | YC + Crunchbase startup database scraper | Python, APIs, DataViz |
-| **[P2P File Sharing](https://github.com/manoj-dhakal/data_karkhana)** | Encrypted peer-to-peer file sharing | Sockets, Python, Cryptography |
+| [**Medbud**](https://github.com/decipher6/medBud) | Health companion to generate AI-powered health reports for more effective doctor visits | React Native, FastAPI, MongoDB, Groq API |
+| [**Spexy**](https://github.com/bipana06/Spexy) | Glasses recommender based on face shape | FastAPI, Roboflow, Web Scraping |
+| [**Crunchy-Combinator**](https://github.com/decipher6/crunchy-combinator) | YC + Crunchbase startup database scraper | Python, REST APIs |
+| [**P2P File Sharing**](https://github.com/manoj-dhakal/data_karkhana) | Encrypted peer-to-peer file sharing system | Python, Sockets, Cryptography |
+
+🔍 ...and many more projects in my [repositories](https://github.com/decipher6?tab=repositories).
 
 ---
 
 ### 🛠️ Skills
 
 **Languages**: Python, C++, C, JavaScript, HTML/CSS, MATLAB, SQL  
-**Frameworks/Libraries**: FastAPI, React, Node.js, scikit-learn, LangChain, TensorFlow  
+**Frameworks / Libraries**: FastAPI, React, Next.js, Node.js, scikit-learn, LangChain, TensorFlow  
 **Cloud & DevOps**: Azure, Git, Docker  
 **Engines**: Unity, Ultraleap  
-**Security**: Cryptography (theory + practice), Malware Detection, Secure REST APIs  
+**Security**: Cryptography, Malware Detection, Secure REST APIs  
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Frequently Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=decipher6&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=decipher6&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -55,3 +57,6 @@
 - 📦 Containerized DevOps with Docker  
 
 ---
+
+
+![Metrics](https://raw.githubusercontent.com/decipher6/decipher6/main/github-metrics.svg) 
